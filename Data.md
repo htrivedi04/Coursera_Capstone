@@ -6,14 +6,12 @@ food choices. To accumulate this data I'll aim to use one or more of these sourc
 
 ### Foursquare API
 
-The Foursquare API will help me get the data on which suburbs have what type of buildings/dwellings. This makes a difference 
-in the overall decision to open the restaurant, as opening a restaurant near office spaces, residential area can be pretty 
+The Foursquare API will help me get the data on which suburbs have what type of buildings/dwellings. I will query the API to get the number of each type of buildings in an area and map that out on the map of Canberra. This makes a difference in the overall decision to open the restaurant, as opening a restaurant near office spaces, residential area can be pretty 
 advantageous for business.
 
 ### SafeGraph GPS 
 
-I can also utilise SafeGraph's GPS data to determine the footfall in a particular area/suburb in Canberra. An area with higher
-footfall but comparitively lesser number of restaurants can be a good place to open a restaurant.
+I can also utilise SafeGraph's GPS data to determine the footfall in a particular area/suburb in Canberra. SafeGraph provides the anonymous GPS movement data of its users, which is very useful to determine the footfall in an area of the city. An area with higher footfall but comparitively lesser number of restaurants can be a good place to open a restaurant.
 
 ### Yelp / Foursquare
 
